@@ -1,8 +1,8 @@
 class Mapmap < Formula
   desc "Video mapping software"
   homepage "https://mapmapteam.github.io/"
-  url "https://github.com/mapmapteam/mapmap/archive/0.6.1.tar.gz"
-  sha256 "01a6be81ccf56daba94268877fb8b89c76c896b07dd5280523e1aacaefcf3f5f"
+  url "https://github.com/mapmapteam/mapmap/archive/0.6.2.tar.gz"
+  sha256 "2f1b8236d448b6839395fd78b1d407c034749a549666270f2a17e6b5f2d25c78"
   head "https://github.com/mapmapteam/mapmap.git"
 
   depends_on "pkg-config" => :build
